@@ -4,7 +4,13 @@
 
 ---?include=slides/agenda.md
 
----?include=slides/home.md
+---?include=slides/scrum.md
+
+---?include=slides/jira.md
+
+---?include=slides/development-agile.md
+
+---?include=slides/devops.md
 
 ---?include=slides/sources.md
 
