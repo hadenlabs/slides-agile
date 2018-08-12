@@ -11,16 +11,15 @@ replace = """
 `Unreleased`_
 *************
 
-
 `{{new_version}}`_ - {{utcnow | strftime('%Y-%m-%d')}}
-********************
+**********************
 """
 
 [[files."CHANGELOG.rst"]]
 search = """
-.. _`Unreleased`: https://github.com/lbpositiva/slides-agile/compare/{{old_version}}...HEAD
+.. _`Unreleased`: https://github.com/hadenlabs/slides-agile/compare/{{old_version}}...HEAD
 """
 replace = """
-.. _`Unreleased`: https://github.com/lbpositiva/slides-agile/compare/{{new_version}}...HEAD
-.. _`{{new_version}}`: https://github.com/lbpositiva/slides-agile/compare/{{old_version}}...{{new_version}}
+.. _`Unreleased`: https://github.com/hadenlabs/slides-agile/compare/{{new_version}}...HEAD
+.. _{{new_version}}: https://github.com/hadenlabs/slides-agile/compare/{{old_version}}...{{new_version}}
 """
