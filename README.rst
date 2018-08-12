@@ -6,9 +6,9 @@ Slides Agile
 Slides Agile
 
 :Version: 0.0.0
-:Web: https://github.com/labpositiva/slides-agile
-:Download: https://github.com/labpositiva/slides-agile
-:Source: https://github.com/labpositiva/slides-agile
+:Web: https://github.com/hadenlabs/slides-agile
+:Download: https://github.com/hadenlabs/slides-agile
+:Source: https://github.com/hadenlabs/slides-agile
 :Keywords: slides-agile
 
 .. contents:: Table of Contents:
@@ -64,30 +64,30 @@ Please see `CONTRIBUTING <CONTRIBUTING.rst>`__ for details.
 Credits
 -------
 
-Made with :heart: :coffee: and :pizza: by `labpositiva <https://github.com/labpositiva>`__
+Made with :heart: :coffee: and :pizza: by `hadenlabs <https://github.com/hadenlabs>`__
 
 -  `All Contributors <AUTHORS>`__
 
-.. |code_climate| image:: https://codeclimate.com/github/labpositiva/slides-agile/badges/gpa.svg
-  :target: https://codeclimate.com/github/labpositiva/slides-agile
+.. |code_climate| image:: https://codeclimate.com/github/hadenlabs/slides-agile/badges/gpa.svg
+  :target: https://codeclimate.com/github/hadenlabs/slides-agile
   :alt: Code Climate
 
-.. |github_tag| image:: https://img.shields.io/github/tag/labpositiva/slides-agile.svg?maxAge=2592000
-  :target: https://github.com/labpositiva/slides-agile
+.. |github_tag| image:: https://img.shields.io/github/tag/hadenlabs/slides-agile.svg?maxAge=2592000
+  :target: https://github.com/hadenlabs/slides-agile
   :alt: Github Tag
 
-.. |build_status| image:: https://travis-ci.org/labpositiva/slides-agile.svg
-  :target: https://travis-ci.org/labpositiva/slides-agile
+.. |build_status| image:: https://travis-ci.org/hadenlabs/slides-agile.svg
+  :target: https://travis-ci.org/hadenlabs/slides-agile
   :alt: Build Status Tag
 
 .. |gitpitch| image:: https://gitpitch.com/assets/badge.svg
-  :target: https://gitpitch.com/labpositiva/slides-agile?grs=github&t=white
+  :target: https://gitpitch.com/hadenlabs/slides-agile?grs=github&t=white
   :alt: GitPitch
 
 .. |license| image:: https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square
   :target: LICENSE
   :alt: License
 
-.. |test_coverage| image:: https://codeclimate.com/github/labpositiva/slides-agile/badges/coverage.svg
-  :target: https://codeclimate.com/github/labpositiva/slides-agile/coverage
+.. |test_coverage| image:: https://codeclimate.com/github/hadenlabs/slides-agile/badges/coverage.svg
+  :target: https://codeclimate.com/github/hadenlabs/slides-agile/coverage
   :alt: Test Coverage

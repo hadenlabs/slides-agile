@@ -1,5 +1,5 @@
 How to contribute
-#################
+=================
 
 Prerequisites:
 
@@ -15,7 +15,7 @@ contributions:
 
 -  **Ideas**: participate in an issue thread or start your own to have
    your voice heard.
--  **Resources**: submit a pull request to add to RESOURCES.rst with
+-  **Resources**: submit a pull request to add to RESOURCES.md with
    links to related content.
 -  **Outline sections**: help us ensure that this repository is
    comprehensive. if there is a topic that is overlooked, please add it,
@@ -29,12 +29,12 @@ contributions:
    formatting.
 
 Conduct
-*******
+=======
 
 Communication
-*************
+=============
 
 Frequently Asked Questions
-**************************
+==========================
 
 *please add*
